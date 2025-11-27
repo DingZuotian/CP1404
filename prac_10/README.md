@@ -27,7 +27,7 @@ Reviewing others’ code trained me to read code more carefully and think about 
 
 ### Good Code Review 1
 
-[PR Review 1](PUT_YOUR_LINK_HERE)
+I haven't received the link
 
 ### Explanation
 
@@ -35,7 +35,7 @@ In this review, I provided specific suggestions to improve readability and varia
 
 ### Good Code Review 2
 
-[PR Review 2](PUT_YOUR_LINK_HERE)
+I haven't received the link
 
 ### Explanation
 
